@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Services'
       url: '/'
-    - title: 'Blog'
+    - title: 'Insights'
       url: '/blog/'
     - title: 'About'
       url: '/about'
