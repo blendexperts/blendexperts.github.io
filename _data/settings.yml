@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Services'
       url: '/services/'
     - title: 'Insights'
-      url: '/insights/'
+      url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
