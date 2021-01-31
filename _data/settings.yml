@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Beverage solutions for independent brands
+  footer_tagline: Alcohol solutions for independent brands
 
 hero_settings:
   overlay_opacity: 0.8
