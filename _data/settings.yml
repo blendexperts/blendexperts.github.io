@@ -8,12 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'About'
+      url: '/'
     - title: 'Services'
       url: '/services/'
     - title: 'Insights'
       url: '/insights/'
-    - title: 'About'
-      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
