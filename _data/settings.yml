@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Services'
-      url: '/'
+      url: '/services/'
     - title: 'Insights'
       url: '/blog/'
     - title: 'About'
